@@ -50,6 +50,7 @@ https://github.com/open-mmlab/mmdetection/blob/master/MODEL_ZOO.md
 ### 6、训练自己的模型
 https://github.com/hekesai/MMDetection-Introduce
 <br> https://blog.csdn.net/weicao1990/article/details/93484603
+<br> e.g. python tools/train.py configs/libra_rcnn/libra_faster_rcnn_x101_64x4d_fpn_1x.py --gpus 2
 ### 7、源码解析
 https://heary.cn/posts/mmdetection-%E5%9F%BA%E4%BA%8EPyTorch%E7%9A%84%E5%BC%80%E6%BA%90%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F/
 ## 五、docker部分
