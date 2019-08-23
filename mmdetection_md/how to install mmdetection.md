@@ -142,3 +142,5 @@ It is recommended to symlink the dataset root to $MMDETECTION/data.
 mkdir data
 ln -s $COCO_ROOT data
 ```
+## 五、可视化
+https://github.com/Stephenfang51/mmdetection_visualize/issues/1
